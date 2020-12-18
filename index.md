@@ -15,13 +15,25 @@ This is a chess tournament that is getting played online and has a few simple **
 ### Players ###
 <table>
 <tr>
-<td style="padding-right:15em">Jimmy Caps</td>
+<td>Jimmy Cecotto</td>
 <td>60 year old unaccomplished player, who tried hard and won nothing of significance so far</td>
 </tr>
 <tr>
-<td style="padding-right:15em;">Fuzzy Pug 23</td>
+<td>[Virgil]</td>
 <td>blah-blah-blah</td>
 </tr>
+<tr>
+<td>[Court]</td>
+<td>blah-blah-blah</td>
+</tr> 
+<tr>
+<td>[Alex]</td>
+<td>blah-blah-blah</td>
+</tr>  
+ <tr>
+<td>[Daniela]</td>
+<td>blah-blah-blah</td>
+</tr> 
 <tr><td colspan="2"><br/></td></tr>
 </table>
  
