@@ -16,7 +16,7 @@ This is a chess tournament that is getting played online and has a few simple **
 <table>
 <tr>
 <td style="padding-right:15em">Jimmy Caps</td>
-<td style="padding-left:15em;">60 year old unaccomplished player, who tried hard and won nothing of significance so far</td>
+<td>60 year old unaccomplished player, who tried hard and won nothing of significance so far</td>
 </tr>
 <tr>
 <td style="padding-right:15em;">Fuzzy Pug 23</td>
