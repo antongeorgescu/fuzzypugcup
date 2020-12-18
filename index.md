@@ -73,5 +73,30 @@ This is a chess tournament that is getting played online and has a few simple **
 </table>
 
 ### Tournament Table ###
+<table>
+<tr>
+ <th>Player</th>
+ <th>Won</th>
+ <th>Draws</th>
+ <th>Lost</th>
+ <th>Points</th>
+</tr> 
+<tr>
+ <td>[Virgil]</td>
+ <td>5</td>
+ <td>1</td>
+ <td>3</td>
+ <td>16</td>
+</tr>
+<tr>
+ <td>Jimmy Cecotto</td>
+ <td>4</td>
+ <td>1</td>
+ <td>3</td>
+ <td>12</td>
+</tr>
+<tr><td colspan="5"><br/></td></tr>
+</table>
+
 ---
 *Copyright Alvianda Data Science Labs @ 2020*
