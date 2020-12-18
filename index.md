@@ -1,4 +1,5 @@
 ## Welcome to Fuzzy Pug Cup, December 2020 ! ##
+![FuzzyPugCupLogo](https://user-images.githubusercontent.com/6631390/102653455-f3db2280-413c-11eb-9713-8950c604dbf6.PNG)
 
 ### Introduction ###
 
