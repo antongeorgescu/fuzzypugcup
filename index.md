@@ -36,7 +36,42 @@ This is a chess tournament that is getting played online and has a few simple **
 </tr> 
 <tr><td colspan="2"><br/></td></tr>
 </table>
- 
+
+### Matches ###
+<table>
+<tr>
+ <th>Date</th>
+ <th>Players</th>
+ <th>Winner</th>
+</tr> 
+<tr>
+ <td>25-Dec-2020</td>
+ <td>Jimmy Cecotto vs. [Virgil]</td>
+ <td>[Virgil]</td>
+</tr>
+<tr>
+ <td>25-Dec-2020</td>
+ <td>Jimmy Cecotto vs. [Virgil]</td>
+ <td>[Virgil]</td>
+</tr>
+<tr>
+ <td>25-Dec-2020</td>
+ <td>Jimmy Cecotto vs. [Virgil]</td>
+ <td>[Virgil]</td>
+</tr> 
+<tr>
+ <td>25-Dec-2020</td>
+ <td>Jimmy Cecotto vs. [Virgil]</td>
+ <td>[Virgil]</td>
+</tr>  
+<tr>
+ <td>25-Dec-2020</td>
+ <td>Jimmy Cecotto vs. [Virgil]</td>
+ <td>[Virgil]</td>
+</tr> 
+<tr><td colspan="3"><br/></td></tr>
+</table>
+
 ### Tournament Table ###
 ---
 *Copyright Alvianda Data Science Labs @ 2020*
