@@ -1,33 +1,4 @@
----
-description: This site shows and tests the presence of a bug in GitHub Pages
----
-I noticed that the Jekyll version used GitHub Pages is malconfigured in a way
-that the variable `site.github.url` does not point to the web location of the site itself
-but to a non-existent page on GitHub. This page demonstrates this
-and also verifies the presence of this bug.
-
-### Dynamic Link
-###### {{ site.github.url }}
-
-### Hardcoded Link
-###### https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug
-
-The above 2 links should be exactly the same.
-
-## Status:
-{% if site.github.url == "https://maxvalue.github.io/GitHub-Pages-site.github.url-Bug" %}
-<p style="color:white;background-color:green">The bug has been fixed!</p>
-{% else %}
-<p style="color:black;background-color:red">This bug is present.</p>
-{% endif %}
-
-## Further Infos
-This bug has been noticed on project AND user pages.
-
-As it turns out this bug is only present if you build your GitHub Pages site locally without
-any GitHub API key set.
-
-## Fuzzy Pug Cup, Christmas Edition, December 2020 ! ##
+## Welcome to Fuzzy Pug Cup, December 2020 ! ##
 ![FuzzyPugCupLogo](https://user-images.githubusercontent.com/6631390/102653455-f3db2280-413c-11eb-9713-8950c604dbf6.PNG)
 
 ### Introduction ###
@@ -44,88 +15,16 @@ This is a chess tournament that is getting played online and has a few simple **
 ### Players ###
 <table>
 <tr>
-<td>Jimmy Cecotto</td>
+<td style="padding-right:15em">Jimmy Caps</td>
 <td>60 year old unaccomplished player, who tried hard and won nothing of significance so far</td>
 </tr>
 <tr>
-<td>[Virgil]</td>
+<td style="padding-right:15em;">Fuzzy Pug 23</td>
 <td>blah-blah-blah</td>
 </tr>
-<tr>
-<td>[Court]</td>
-<td>blah-blah-blah</td>
-</tr> 
-<tr>
-<td>[Alex]</td>
-<td>blah-blah-blah</td>
-</tr>  
- <tr>
-<td>[Daniela]</td>
-<td>blah-blah-blah</td>
-</tr> 
 <tr><td colspan="2"><br/></td></tr>
 </table>
-
-### Matches ###
-<table>
-<tr>
- <th>Date</th>
- <th>Players</th>
- <th>Winner</th>
-</tr> 
-<tr>
- <td>25-Dec-2020</td>
- <td>Jimmy Cecotto vs. [Virgil]</td>
- <td>[Virgil]</td>
-</tr>
-<tr>
- <td>25-Dec-2020</td>
- <td>Jimmy Cecotto vs. [Virgil]</td>
- <td>[Virgil]</td>
-</tr>
-<tr>
- <td>25-Dec-2020</td>
- <td>Jimmy Cecotto vs. [Virgil]</td>
- <td>[Virgil]</td>
-</tr> 
-<tr>
- <td>25-Dec-2020</td>
- <td>Jimmy Cecotto vs. [Virgil]</td>
- <td>[Virgil]</td>
-</tr>  
-<tr>
- <td>25-Dec-2020</td>
- <td>Jimmy Cecotto vs. [Virgil]</td>
- <td>[Virgil]</td>
-</tr> 
-<tr><td colspan="3"><br/></td></tr>
-</table>
-
+ 
 ### Tournament Table ###
-<table>
-<tr>
- <th>Player</th>
- <th>Won</th>
- <th>Draws</th>
- <th>Lost</th>
- <th>Points</th>
-</tr> 
-<tr>
- <td>[Virgil]</td>
- <td>5</td>
- <td>1</td>
- <td>3</td>
- <td>16</td>
-</tr>
-<tr>
- <td>Jimmy Cecotto</td>
- <td>4</td>
- <td>1</td>
- <td>3</td>
- <td>12</td>
-</tr>
-<tr><td colspan="5"><br/></td></tr>
-</table>
-
 ---
 *Copyright Alvianda Data Science Labs @ 2020*
