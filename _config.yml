@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Welcome to Fuzzy Pug Cup, Online Chess Tournament
 description: This tournament is open for all age players, reagrdless of skill, culinary taste, height, weight, 20/20 vision, sense of humour, IQ (especially IQ) 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
